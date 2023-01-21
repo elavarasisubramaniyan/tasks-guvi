@@ -1,0 +1,9 @@
+             Window                                                                                 Document
+
+1.Window is the first thing that gets loaded in to the browser.       1.The Document is your html,aspx,php or other document that 
+                                                                        will be loaded into the browser.
+2.This Window object has the majority of the properties like          2.Document object has the properties like title,URL,cookie etc.. 
+  length,innerWidth,innerHight,name.                                                                                                                                             
+3.Window object represent the browser window.                         3.The document is a property of a window.
+4.Window is at root level at the javascript & it is the root object   4.The document is the root node of the HTML document.
+  model.
