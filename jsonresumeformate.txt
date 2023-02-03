@@ -1,0 +1,14 @@
+
+
+const studentobj =
+{
+    name: "elavarasi",
+    qualification: "electrical and electronics engineering",
+    percentage: 64,
+    workexperience: "twoyears",
+    maritialstatus: "marriaed",
+    address: "bangalore",
+    pincode: 567890,
+
+}
+console.log(studentobj)
